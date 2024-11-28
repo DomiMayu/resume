@@ -1,0 +1,38 @@
+body {
+    background-color:#FFE5EC;
+}
+
+h1 {
+    font-size:xx-large;
+    color:rgb(255, 112, 166);
+}
+
+h2 {
+    font-size: large;
+    color:#ff70a6;
+}
+
+h3 {
+    font-size:larger;
+    color:#ff70a6;
+}
+
+p {
+    color: rgb(53, 67, 55)
+}
+
+li {
+    color: rgb(53, 67, 55)
+}
+
+tr { 
+    color:rgb(53, 67, 55)
+}
+
+img {
+    border: 5px solid rgb(255, 112, 166); 
+  }
+
+  button {
+         color:#d93977;
+  }
