@@ -1,19 +1,19 @@
 body {
-    background-color:#FFE5EC;
+    background-color:#efcfd8;
 }
 
 h1 {
-    font-size:xx-large;
+    font-size: 50px; 
     color:rgb(255, 112, 166);
 }
 
 h2 {
-    font-size: large;
+    font-size: 25px;
     color:#ff70a6;
 }
 
 h3 {
-    font-size:larger;
+    font-size:20px;
     color:#ff70a6;
 }
 
@@ -26,13 +26,44 @@ li {
 }
 
 tr { 
-    color:rgb(53, 67, 55)
+    color:#354337
 }
 
 img {
     border: 5px solid rgb(255, 112, 166); 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    
   }
 
   button {
          color:#d93977;
   }
+
+  body{
+    background-image: url("pink.gif");
+   
+  }
+
+  .button-container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+  }
+
+  .button-container button{
+    margin:20px;
+
+  }
+
+  .inquire-container {
+    color:#d93977;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+
+  
